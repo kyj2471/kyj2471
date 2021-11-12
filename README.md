@@ -2,7 +2,7 @@
 - 👀 I’m interested in React
 - 🌱 I’m currently learning Core Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me bombcoding@gmail.com
 
 <!---
 kyj2471/kyj2471 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
